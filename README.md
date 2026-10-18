@@ -39,11 +39,11 @@ The objective of this analysis is to answer key historical questions about movie
 
 1. Clone the repository:
 ```text
-  git clone [https://github.com/your-username/netflix-1990s-eda.git](https://github.com/your-username/netflix-1990s-eda.git)
+  git clone https://github.com/XalidHuseynov/Investigating-Netflix-Movies.git
 ```
 3. Navigate to the project directory:
 ```text
-  cd netflix-1990s-eda
+  cd Investigating-Netflix-Movies
 ```
 3. Install required packages:
 ```text

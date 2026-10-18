@@ -41,7 +41,7 @@ The objective of this analysis is to answer key historical questions about movie
 ```text
   git clone https://github.com/XalidHuseynov/Investigating-Netflix-Movies.git
 ```
-3. Navigate to the project directory:
+2. Navigate to the project directory:
 ```text
   cd Investigating-Netflix-Movies
 ```

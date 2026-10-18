@@ -38,19 +38,19 @@ The objective of this analysis is to answer key historical questions about movie
 ---
 
 1. Clone the repository:
-
+```text
   git clone [https://github.com/your-username/netflix-1990s-eda.git](https://github.com/your-username/netflix-1990s-eda.git)
-
-2. Navigate to the project directory:
-
+```
+3. Navigate to the project directory:
+```text
   cd netflix-1990s-eda
-
+```
 3. Install required packages:
-
+```text
   pip install pandas numpy
+```
 
 4. Run the Jupyter Notebook or Python script to reproduce the analysis.
-
 
 ```text
 ├── netflix_data.csv          # Dataset containing Netflix titles and metadata
